@@ -79,6 +79,7 @@ This guide contains a set of papers, learning guides, and tools related to promp
 
 - [OpenAI Playground](https://beta.openai.com/playground)
 - [GPTTools](https://gpttools.com/comparisontool)
+- [Humanloop](https://humanloop.com/)
 - [LangChain](https://github.com/hwchase17/langchain)
 - [ThoughtSource](https://github.com/OpenBioLink/ThoughtSource)
 - [EveryPrompt](https://www.everyprompt.com/)
